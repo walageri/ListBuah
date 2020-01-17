@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="deskripsi">isi pesan</string>
+
+    <string name="alpukat">alpukat adalah :</string>
+    <string name="apel">Apel adalah:</string>
+    <string name="ceri">Seri adalah:</string>
+    <string name="durian">durian adalah:</string>
+    <string name="jambuair">Jambu air adalah:</string>
+    <string name="manggis">Manggis adalah:</string>
+    <string name="strawberi">Strawbery adalah:</string>
+</resources>
